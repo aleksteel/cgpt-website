@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+#introduction {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 20px;
+}
+
+#about, #portfolio, #customer-cases, #newsletter {
+    background-color: #fff;
+    color: #333;
+    padding: 20px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    color: #888;
+    padding: 20px;
+    text-align: center;
+}
